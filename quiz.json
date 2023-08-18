@@ -1,0 +1,19 @@
+{
+    "ques": [
+        "Which is the special symbol used in Python to add comments?",
+        "Syntax error in Python is detected by ____ at ____",
+        "Which one of the following has the highest precedence in the expression?",
+        "The format function, when applied to a string, returns:",
+        "Which statement is correct?"
+    ],
+
+    "options": [
+        ["$", "//", "/...", "#"],
+        ["compiler/compiler time", "interpreter/run time", "compiler/run time", "interpreter"],
+        ["Addition", "Multiplication", "Exponential", "Parentheses"],
+        ["List", "bool", "str", "int"],
+        ["List is mutable & Tuple is immutable", "List is immutable & Tuple is mutable"]
+    ],
+
+    "ans": [4, 2, 4, 3, 1]
+}
